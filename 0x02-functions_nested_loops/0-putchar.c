@@ -20,5 +20,5 @@ for (ch = 0; ch < 8; ch++)
 
 _putchar('\n');
 
-retrun(0);
+retrun(0); 
 }
