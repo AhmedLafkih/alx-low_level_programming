@@ -1,5 +1,5 @@
 #include "main.h"
-
+11;rgb:0000/0000/0000
 /**
  * print_to_98 -print n to 98
  *
@@ -15,13 +15,8 @@ for (count = n; count > 98; count--)
 {
 printf("%d, ", count);
 }
-}
-else
+else (count = n; count < 98; count++)
 {
-for (count = n; count < 98; count++)
-{
-printf("%d, ", count);
-}
+printf("%d, ", count); }
 printf("98\n");
-}
 }
